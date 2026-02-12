@@ -1,0 +1,20 @@
+{
+    "Group": "IroriPowered",
+    "Name": "PermissionTickets",
+    "Version": "${version}",
+    "Website": "https://www.irori.cc/",
+    "Description": "Earn permissions from configurable items.",
+    "Main": "cc.irori.permissiontickets.PermissionTicketsPlugin",
+    "Authors": [
+        {
+            "Name": "KabanFriends",
+            "Url": "https://github.com/KabanFriends"
+        }
+    ],
+    "ServerVersion": "*",
+    "Dependencies": {
+        "LuckPerms:LuckPerms": "*"
+    },
+    "OptionalDependencies": {},
+    "IncludesAssetPack": false
+}
